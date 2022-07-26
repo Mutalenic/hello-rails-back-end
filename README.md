@@ -1,6 +1,6 @@
 # Rails-back-end app
 
-> Rails api for a simple app showing random greeting messages using back-end(rails) and front-end(react) repositories.
+> Rails api for a simple app showing random greeting messages using back-end(rails) and front-end(react) repositories.[Front end](https://github.com/Mutalenic/hello-react-front-end)
 
 ## Built With
 
